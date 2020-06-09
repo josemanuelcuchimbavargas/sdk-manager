@@ -1,0 +1,3 @@
+include ':SdkServicelibrary'
+include ':app'
+rootProject.name = "SdkServices"
